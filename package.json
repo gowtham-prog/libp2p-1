@@ -1,0 +1,20 @@
+{
+  "name": "n3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chainsafe/libp2p-noise": "^12.0.2",
+    "@libp2p/mplex": "^8.0.4",
+    "@libp2p/webrtc": "^2.0.11",
+    "libp2p": "^0.31.8"
+  },
+  "devDependencies": {
+    "@babel/helper-compilation-targets": "^7.22.9"
+  }
+}
